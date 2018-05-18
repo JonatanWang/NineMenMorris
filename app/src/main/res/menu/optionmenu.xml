@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/new_game"
+        android:icon="@drawable/game_start_clicked"
+        android:title="@string/new_game" />
+    <item android:id="@+id/load_game"
+        android:icon="@drawable/button_close"
+        android:title="Load Game"
+>
+    <menu>
+
+    </menu>
+    </item>
+
+
+    <item android:id="@+id/setting"
+        android:icon="@drawable/button_close"
+        android:title="Settings" />
+    <item android:id="@+id/quit"
+        android:icon="@drawable/button_close"
+        android:title="@string/quit" />
+
+
+</menu>
