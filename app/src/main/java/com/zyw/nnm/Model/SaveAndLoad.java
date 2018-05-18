@@ -12,9 +12,6 @@ import java.text.DateFormat;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
-/**
- * Created by Martin on 2017-12-01.
- */
 
 public class SaveAndLoad {
 
